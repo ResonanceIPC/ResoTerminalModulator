@@ -128,5 +128,7 @@ int main() {
     // Printing and saving matrix
     print_matrix();
     save_matrix();
+    
+    printf("\n\n Powered by RESONANCE")
     return 0;
 }
