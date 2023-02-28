@@ -17,4 +17,4 @@ run: resomodulator
 	./resomodulator
 
 clean:
-	rm -f $(OBJ) resomodulator
+	rm -f $(OBJ) resomodulator sinusoid.txt
